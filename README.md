@@ -1,0 +1,1 @@
+Fraglich ist ob Bernd von Stefan die Kosten in Form von Schadenersatz gemäß §823 I BGB von Stefan beanspruchen kann.
