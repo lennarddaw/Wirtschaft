@@ -17,4 +17,6 @@ Handlung
 Die körperliche Einwirkung (Schlag ins Gesicht) ist eine aktive Handlung des Stefan.
 
 Kausalität
+Der Bruch der Brille, sowie die Baehandlungsksoten lassen sich adequat-kausal auf die Handlung des S. zurückführen.
+
 
