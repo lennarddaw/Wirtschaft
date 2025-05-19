@@ -19,4 +19,12 @@ Die körperliche Einwirkung (Schlag ins Gesicht) ist eine aktive Handlung des St
 Kausalität
 Der Bruch der Brille, sowie die Baehandlungsksoten lassen sich adequat-kausal auf die Handlung des S. zurückführen.
 
+Adäquanz
+Ein Schlag ins Gesicht ist typischerweise geeignet, sowohl dies zu Verletzungen des Nasenbeins als auch zu Bruch der Brille zu führen. Die Folge ist daher auch adäquat.
+
+Rechtswidrigkeit
+Es liegen keine Rechtfertigungsgründe, wie Notwehr nach §32 StGB oder Einwilligung nach §
+Herr S. handelte demanach unrechtmäßig, nicht rechtmäßig.
+
+Verschulden
 
