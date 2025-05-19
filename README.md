@@ -17,7 +17,7 @@ Handlung
 Die körperliche Einwirkung (Schlag ins Gesicht) ist eine aktive Handlung des Stefan.
 
 Kausalität
-Der Bruch der Brille, sowie die Baehandlungsksoten lassen sich adequat-kausal auf die Handlung des S. zurückführen.
+Der Bruch der Brille, sowie die Baehandlungskosten lassen sich adequat-kausal auf die Handlung des S. zurückführen.
 
 Adäquanz
 Ein Schlag ins Gesicht ist typischerweise geeignet, sowohl dies zu Verletzungen des Nasenbeins als auch zu Bruch der Brille zu führen. Die Folge ist daher auch adäquat.
@@ -27,4 +27,10 @@ Es liegen keine Rechtfertigungsgründe, wie Notwehr nach §32 StGB oder Einwilli
 Herr S. handelte demanach unrechtmäßig, nicht rechtmäßig.
 
 Verschulden
+Stefan handelte vorsätzlich: Er wusste um seine Tat, wollte den Schlag ausführen und erkannte die Möglichkeit der Verletzungsfolgen. Ein Fahrlässigkeitsvorwurf kommt bereits aufgrund des Vorsatzes nicht in Betracht.
+
+Zwischenergebnis zu I:
+Der Tatbestand des §823 I BGB ist somit erfüllt.
+
+2. Rechtsfolge Schaden un Umfang
 
