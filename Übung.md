@@ -1,0 +1,1 @@
+Beispielsfall: A bietet B seinen gebrauchten Schönfelder/Deutsche Gesetze (Loseblattsammlung) für 35 € zum Verkauf an. B lehnt dankend ab. Mit Jura möchte er nichts zu tun haben. Hat A einen Anspruch gegen B auf Zahlung des Kaufpreises?
